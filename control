@@ -1,0 +1,8 @@
+Package: com.yourname.mymodmenu
+Name: MyModMenuAimbot
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Mod Menu Ghim Đầu Cho Game Unity iOS
+Maintainer: Tên Của Bạn
+Author: Tên Của Bạn
